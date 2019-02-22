@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.sheffmachine"
+    },
+    "jhipsterVersion": "5.8.1",
+    "applicationType": "monolith",
+    "baseName": "tasks",
+    "packageName": "com.sheffmachine",
+    "packageFolder": "com/sheffmachine",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YmYzOGY1OTkyZDMyNGE5NDgxMDg1ZTgwYjgzZjYzNTE3YTRjODI2MWEzZGIxMjBlOWQ1N2JjZTQzYjM0MjFhMzNkZjg1Y2Y2NDAyOWFhNmM1MWU3N2U4ZTllMzljYzE5MmNlYTU1Y2ZmNTQ2YWMwNjJlNTU3YWUyYTQxMzJhYzg=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
